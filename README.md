@@ -8,4 +8,14 @@ cd game
 python3 main.py
 ```
 
+# project
 
+para usar el proyecto 
+
+```sh
+git clone
+cd project
+source env/bin/activate
+pip3 install -r requirements.txt
+python3 main.py
+```
